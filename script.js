@@ -21,6 +21,6 @@ submitButton.addEventListener('click', () => {
         document.querySelector('.card').classList.add('hidden');
         document.querySelector('.selected-rating').textContent = `You selected ${ratingValue} out of 5`;
     } else {
-        alert('Please select a rating before submitting.');
+        alert('Please rate your experience!');
     }
 });

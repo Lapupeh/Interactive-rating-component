@@ -7,5 +7,5 @@ Users should be able to:
 - See the "Thank you" card state after submitting a rating
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Lapupeh/Interactive-rating-component.git]
+- Live Site URL: [https://sprightly-ganache-c82936.netlify.app/]
